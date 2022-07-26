@@ -9,7 +9,7 @@ fn main() {
 
     let term = match term.trim().parse::<u8>() {
         Ok(num) => {
-            println!("Thanks for inputting a number: {num}");
+            println!("\nThanks for inputting a number: {num}");
             fib(num);
         },
         Err(..) => {
@@ -24,13 +24,13 @@ fn fib (x: u8) {
     let y = x - 1;
 
     if y == 0 || y == 1 {
-        println!("{}", vec[y as usize]);
+        println!("{} \n", vec[y as usize]);
     }
 
     for number in 2..=y {
-        let mut i = number as usize;
+        let i = number as usize;
         vec.push(vec[i-2] + vec[i-1]);
     }
 
-    println!("{}", vec[y as usize]);
+    println!("{} \n", vec[y as usize]);
 }

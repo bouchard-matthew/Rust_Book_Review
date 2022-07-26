@@ -1,26 +1,31 @@
 use std::io;
 
 fn main() {
-    println!("Please enter the nth term of the Fibonacci Sequence you'd like output: ");
+    println!("Please enter the nth term of the Fibonacci Sequence you'd like output (Max: 186): ");
     
     let mut term = String::new();
 
     io::stdin().read_line(&mut term).expect("Please enter a number");
 
-    let term = match term.trim().parse::<u8>() {
+    let _term = match term.trim().parse::<u8>() {
         Ok(num) => {
-            println!("\nThanks for inputting a number: {num}");
-            fib(num);
+            if num <= 186 {
+                println!("\nThanks for inputting a number: {num}");
+                fib(num);
+            } else {
+                println!("\nThanks for not listening to instructions: {num}");
+                return;
+            }
         },
         Err(..) => {
-            println!("Thanks for not listening to instructions: {term}");
+            println!("\nThanks for not listening to instructions: {term}");
             return;
         }
     };
 }
 
 fn fib (x: u8) {
-    let mut vec = vec![1, 1];
+    let mut vec: Vec<u128> = vec![1, 1];
     let y = x - 1;
 
     if y == 0 || y == 1 {

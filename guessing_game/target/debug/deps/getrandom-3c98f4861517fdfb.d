@@ -1,0 +1,11 @@
+C:\Users\matth\OneDrive\Desktop\Rust_Book_Review\guessing_game\target\debug\deps\getrandom-3c98f4861517fdfb.rmeta: C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\lib.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\util.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error_impls.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\windows.rs
+
+C:\Users\matth\OneDrive\Desktop\Rust_Book_Review\guessing_game\target\debug\deps\libgetrandom-3c98f4861517fdfb.rlib: C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\lib.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\util.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error_impls.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\windows.rs
+
+C:\Users\matth\OneDrive\Desktop\Rust_Book_Review\guessing_game\target\debug\deps\getrandom-3c98f4861517fdfb.d: C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\lib.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\util.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error_impls.rs C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\windows.rs
+
+C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\lib.rs:
+C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error.rs:
+C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\util.rs:
+C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\error_impls.rs:
+C:\Users\matth\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.7\src\windows.rs:
